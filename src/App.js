@@ -62,7 +62,7 @@ const App = () => {
           }}
           center={[13.441972604761181, -16.67315011169298]}
           zoom={15}
-        >
+        > 
           <TileLayer
             attribution="Google Maps"
             url="https://www.google.cn/maps/vt?lyrs=m@189&gl=cn&x={x}&y={y}&z={z}"
